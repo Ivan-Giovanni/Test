@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("I don't like coding in SwiftUI")
             Text("I prefer coding in swift")
+            Text("Milk design")
         }
         .padding()
     }
